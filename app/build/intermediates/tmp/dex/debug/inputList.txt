@@ -1,0 +1,3 @@
+C:\Users\Feras\Desktop\Done\app\build\intermediates\classes\debug
+C:\Users\Feras\Desktop\Done\app\build\intermediates\pre-dexed\debug\classes-1a1b4818e134a358a8a8b371d5cba12b3ec9abde.jar
+C:\Users\Feras\Desktop\Done\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-1a9b726f6d6e560b435195352fbef67491c6bd80.jar

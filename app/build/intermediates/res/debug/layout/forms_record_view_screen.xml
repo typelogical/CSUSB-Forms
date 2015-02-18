@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.dbtask.MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/lilay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/name_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/name"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/sid_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/sid"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/phone_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/phone"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/quarter_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/quarter"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/year_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/year"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/major_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/major"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/return_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/return_" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/C:/Users/Feras/Desktop/Done/app/src/main/res/layout/forms_record_view_screen.xml -->

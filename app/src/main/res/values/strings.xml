@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="student_id">Enter your student Id</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit">Submit</string>
+    <string name="return_">Return</string>
+    <string name="view_form">View Submitted Forms</string>
+    <string name="new_form">Submit New Forms</string>
+    <string name="form_one">Form one</string>
+    <string name="user_id">user Id</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="email_id">email Id</string>
+    <string name="form_name">form name</string>
+    <string name="form_id">form id</string>
+    <string name="category">category</string>
+    <string name="admin_id">admin id</string>
+    <string name="name">Name</string>
+    <string name="sid">SID#</string>
+    <string name="phone">Phone#</string>
+    <string name="quarter">Quarter</string>
+    <string name="year">Year</string>
+    <string name="major">Major</string>
+    <string name="spinner_title">Select Category</string>
+
+</resources>
